@@ -45,7 +45,7 @@ Currently sharpening my skills in **ASP.NET, ANGULAR** and **Flutter**.
 ## **💼 Experience**  
 **Techlogix**  
 *Software Engineer Trainee (Internship)* | Dec 2024 - Apr 2025  
-*Application Support Engineer (Contract)* | Apr 2024 - Jul 2025  
+*Application Support Engineer (Contract)* | Apr 2024 - Continue  
 ► Debugged **PL/SQL procedures/packages** in Oracle using TOAD.  
 ► Customized **RAD screens** and managed **FLEXCUBE modules** (CASA, CIF, TD).  
 ► Automated **banking operations** (EOD processing, profit computation).  
