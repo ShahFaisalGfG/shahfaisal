@@ -3,7 +3,7 @@
 📍 *University of Management & Technology, Lahore* 
 
 I build **cross-platform apps, scalable APIs, and database-driven solutions** with a focus on clean code and performance.  
-Currently sharpening my skills in **database optimization** and **system design**.  
+Currently sharpening my skills in **ASP.NET, ANGULAR** and **Flutter**.  
 
 ---
 
