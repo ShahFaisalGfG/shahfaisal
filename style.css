@@ -1,3 +1,4 @@
+/* style.css */
 /* Modern Color Scheme */
 :root {
   --primary: #6366f1;
@@ -61,6 +62,7 @@ a {
   font-weight: 700;
   background: var(--primary-gradient);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -142,21 +144,8 @@ header {
 .logo span {
   background: var(--primary-gradient);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-left: 5px;
-}
-
-.logo::before {
-  content: "{";
-  color: var(--primary);
-  font-size: 2.2rem;
-  margin-right: 5px;
-}
-
-.logo::after {
-  content: "}";
-  color: var(--primary);
-  font-size: 2.2rem;
   margin-left: 5px;
 }
 
@@ -242,6 +231,7 @@ header {
 .hero-title span {
   background: var(--primary-gradient);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -293,7 +283,7 @@ header {
   transform: translateY(-5px);
 }
 
-/* About Section */
+/* About, Experience, Education Sections */
 .about-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -341,10 +331,12 @@ header {
   margin-bottom: 15px;
   display: flex;
   align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--glass-border);
 }
 
 .info-list strong {
-  min-width: 100px;
+  min-width: 120px;
   display: inline-block;
   font-weight: 600;
 }
@@ -393,9 +385,6 @@ header {
 
 .skill-icon {
   font-size: 2.8rem;
-  background: var(--primary-gradient);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
   margin-bottom: 20px;
 }
 
@@ -601,6 +590,13 @@ footer {
   display: inline-block;
 }
 
+.footer-logo span {
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .footer-links {
   display: flex;
   justify-content: center;
@@ -749,3 +745,4 @@ footer {
     gap: 15px;
   }
 }
+/* End of style.css */
