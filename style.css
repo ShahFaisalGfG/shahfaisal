@@ -291,6 +291,13 @@ header {
   align-items: center;
 }
 
+.about-edu-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
 .about-image {
   position: relative;
   perspective: 1000px;
