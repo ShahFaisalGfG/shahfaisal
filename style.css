@@ -283,7 +283,7 @@ header {
   transform: translateY(-5px);
 }
 
-/* About, Experience, Education Sections */
+/* About, Education Sections */
 .about-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
