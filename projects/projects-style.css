@@ -177,6 +177,18 @@ a {
   cursor: pointer;
 }
 
+/* Original size screenshots */
+
+.screenshot-image2 {
+  width: auto;
+  height: auto;
+  /* min-height: 500px; */
+  object-fit: cover;
+  display: block;
+  transition: var(--transition);
+  cursor: pointer;
+}
+
 .screenshot-item:hover .screenshot-image {
   transform: scale(1.02);
 }
