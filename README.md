@@ -96,7 +96,7 @@ IoT-enabled system showing **real-time parking availability** with RFID authenti
 
 ## 🌐 **Portfolio**
 
-🔗 **shahfaisalgfg.github.io/shahfaisal**
+🔗 <https://shahfaisalgfg.github.io/shahfaisal>
 
 ---
 
