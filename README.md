@@ -1,75 +1,111 @@
-# **👋 Hi, I'm Shah Faisal**
+# 👋 Hi, I'm **Shah Faisal**
 
-🎓 Software Engineering Graduate | **Flutter & Full-Stack Developer** | **PL/SQL Specialist**  
-📍 _University of Management & Technology, Lahore_
+**Backend Developer | .NET & SQL Specialist | Application Support Engineer**  
+I build backend systems, REST APIs, and practical tools—while solving real enterprise problems across databases, APIs, and core banking workflows.
 
-I build **cross-platform apps, scalable APIs, and database-driven solutions** with a focus on clean code and performance.  
-Currently sharpening my skills in **ASP.NET, ANGULAR** and **Flutter**.
-
----
-
-## **🛠️ Core Skills**
-
-**Programming:** Dart, C#, Java, JavaScript, Python, PHP, C++  
-**Frameworks:** Flutter, Node.js/Express.js, React.js, ASP.NET, Angular  
-**Databases:** Oracle PL/SQL, MySQL, PostgreSQL, Firebase, MongoDB  
-**Tools:** Git, GitHub, TOAD for Oracle, FLEXCUBE, RAD Tool
+Focused on **ASP.NET Core**, **Angular**, **SQL/PLSQL**, **FLEXCUBE debugging**, and developing real-world apps that improve productivity and system reliability.
 
 ---
 
-## **🚀 Highlighted Projects**
+## 🚀 **What I Do**
 
-### **1. CC Gen Ultimate** _(Flutter Windows App)_
+- Develop **REST APIs**, backend services, and scalable data-driven apps
+- Debug and support **Oracle FLEXCUBE** modules (CASA, CIF, TD)
+- Build desktop utilities & AI-powered tools
+- Work with authentication (JWT/MS Identity), EF Core, SQL optimization
+- Deploy .NET/Angular apps via **Azure & GitHub Actions**
 
-`Python` `Dart` `Faster-Whisper` `LibreTranslate`  
-► Multi-platform app to **generate & translate subtitles** using AI models.  
-► Supports `.SRT file generation` + **multi-language translation**.  
-► _Future:_ Android, Linux, macOS, iOS versions.
+---
 
-### **2. Contacts Manager** _(Windows App)_
+## 🛠️ **Core Skills**
 
-`C#` `.NET`  
-► Bulk contact management with **country-code sorting** and **CSV export/import** for Android/iOS.
+**Backend:** C#, ASP.NET Core, Entity Framework, REST APIs, Debugging  
+**Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap  
+**Databases:** SQL Server, Oracle SQL, PL/SQL, MySQL  
+**Tools:** Git, GitHub, GitHub Actions, Swagger, Postman, TOAD, SVN  
+**Other:** Windows Apps (C#/WinForms), Flutter, AI/ML Whisper integration
 
-### **3. GFG Font Changer** _(Browser Extension)_
+---
+
+## ⭐ **Highlighted Projects**
+
+### **1. Contacts Manager** (Windows App)
+
+`C#` `WinForms` `EPPlus`  
+A desktop utility to **import, clean, group, and export phone contacts** from TXT/CSV/Excel.  
+Features include number normalization, filters, country grouping, and multi-format export.  
+🔗 **Repo:** <https://github.com/ShahFaisalGfG/ContactsManager>
+
+---
+
+### **2. CC Gen Ultimate** (Flutter Windows App)
+
+`Dart` `Flutter` `Faster-Whisper` `LibreTranslate`  
+AI-powered tool for **auto-generating and translating subtitles**.  
+Supports SRT creation, translation pipelines, and multi-language workflows.  
+🔗 **Repo:** <https://github.com/ShahFaisalGfG/cc_gen_ultimate>
+
+---
+
+### **3. Expenses App** (Angular + ASP.NET Core)
+
+`Angular` `ASP.NET Core` `Azure`  
+A budgeting app with authentication, REST APIs, EF Core, and Azure deployment via GitHub Actions.  
+🔗 **Client:** <https://github.com/ShahFaisalGfG/expenses.client>  
+🔗 **API:** <https://github.com/ShahFaisalGfG/expense.api>
+
+---
+
+### **4. GFG Font Changer** (Browser Extension)
 
 `JavaScript`  
-► Customize fonts on any website for **improved accessibility**.
-
-### **4. Combination Generator** _(Windows/Linux App)_
-
-`Python`  
-► Generates **all possible character combinations** for security testing.  
-► Handy tool for **brute-force simulations**.
-
-### **5. Smart Car Parking System** _(IoT & Web - Final Year Project)_
-
-`ESP32` `JavaScript` `PHP` `MySQL`  
-► IoT-based **real-time parking availability** system with web/mobile interfaces.
+A lightweight Chrome extension to **change fonts & font sizes per website**—improving accessibility.  
+🔗 **Repo:** <https://github.com/ShahFaisalGfG/gfgFontChanger>
 
 ---
 
-## **💼 Experience**
+### **5. Smart Car Parking System** (IoT + Web)
 
-**Techlogix**  
-_Software Engineer Trainee (Internship)_ | Dec 2024 - Apr 2025  
-_Application Support Engineer (Contract)_ | Apr 2025 - Continue  
-► Debugged **PL/SQL procedures/packages** in Oracle using TOAD.  
-► Customized **RAD screens** and managed **FLEXCUBE modules** (CASA, CIF, TD).  
-► Automated **banking operations** (EOD processing, profit computation).
+`ESP32` `PHP` `MySQL` `JavaScript`  
+IoT-enabled system showing **real-time parking availability** with RFID authentication and web dashboard.
 
 ---
 
-## **📜 Certifications**
+## 💼 **Experience**
 
-• **SQL (Advanced)** - HackerRank
+### **Techlogix**
+
+**Application Support Engineer (Apr 2025 – Sep 2025)**  
+• Debugged PL/SQL packages & backend workflows across FLEXCUBE banking modules  
+• Performed EOD operations, upgrade validations, issue triaging  
+• Ensured accurate data replication & improved system reliability
+
+**Software Engineer Trainee (Dec 2024 – Apr 2025)**  
+• Worked on enterprise applications, backend debugging & API workflows  
+• Assisted in .NET, SQL and system troubleshooting tasks
 
 ---
 
-## **📩 Let's Connect!**
+## 📜 **Certifications**
 
-📧 **Email:** [shahfaisalgfg@gmail.com](mailto:shahfaisalgfg@gmail.com)  
-📱 **Phone:** +92 321 7032390  
-🔗 **LinkedIn:** [Shah Faisal](https://www.linkedin.com/in/shah-faisal-gfg)
+- **SQL (Advanced)** — HackerRank
+- **ASP.NET Core (RESTful APIs)** — Udemy
+- **Angular – The Complete Guide** — Udemy
 
-_Open to collaborations on innovative projects!_ 🌟
+---
+
+## 🌐 **Portfolio**
+
+🔗 **shahfaisalgfg.github.io/shahfaisal**
+
+---
+
+## 📬 **Let's Connect**
+
+📧 **Email:** <shahfaisalgfg@gmail.com>  
+🔗 **LinkedIn:** <https://linkedin.com/in/shah-faisal-gfg>  
+🔗 **GitHub:** <https://github.com/ShahFaisalGfG>
+
+---
+
+_Always open to building practical tools, debugging tough problems, and contributing to real-world solutions._ 🚀
